@@ -9,3 +9,4 @@ config.h
 *.tre
 *.xsym
 *.hex
+*.pdf
